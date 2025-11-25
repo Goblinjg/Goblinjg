@@ -19,13 +19,6 @@ I am a self-taught programmer currently pursuing a Bachelor's degree in Computer
           
           
 </p>
-
-## 📚 About Me
-
-- 🎓 **Education:** Currently pursuing a Bachelor's in Computer Science (UFLA)
-- 🧑‍🏫 **Experience:** Some Coding competitions in Brazil, developing backend projects
-- 🚀 **Seeking:** Opportunities in the software development, data analysis and frontend development fields to apply and expand my knowledge
-  
 ## 📫 How to Reach Me
 
 <a href="www.linkedin.com/in/JoaoBaldim" target="_blank">www.linkedin.com/in/JoaoBaldim</a> <br/>
