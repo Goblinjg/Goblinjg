@@ -1,6 +1,10 @@
 ## 👋Hello, I'm João Baldim
 
 I am a self-taught programmer currently pursuing a Bachelor's degree in Computer Science at the Federal University of Lavras (UFLA). My passion for technology and problem-solving led me to explore programming on my own long before entering university. I enjoy taking on programming challenges, as they constantly push me to learn new concepts, improve my skills, and think critically. Whether it’s building software, analyzing algorithms, or solving complex problems, I’m always eager to dive into new tasks that test my knowledge and creativity.
+## 📫 How to Reach Me
+
+<a href="www.linkedin.com/in/JoaoBaldim" target="_blank">www.linkedin.com/in/JoaoBaldim</a> <br/>
+<a href="mailto:joaogsbpersona@gmail.com">joaogsbpersona@gmail.com</a>
 
 ## 🛠️ Technologies and Tools
 
@@ -18,8 +22,4 @@ I am a self-taught programmer currently pursuing a Bachelor's degree in Computer
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
           
           
-</p>
-## 📫 How to Reach Me
-
-<a href="www.linkedin.com/in/JoaoBaldim" target="_blank">www.linkedin.com/in/JoaoBaldim</a> <br/>
-<a href="mailto:joaogsbpersona@gmail.com">joaogsbpersona@gmail.com</a>
+</p> 
